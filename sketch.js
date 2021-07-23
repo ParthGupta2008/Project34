@@ -11,7 +11,7 @@ var box9, box10, box11,box12;
 var box13, box14, box15,box16;
 var box17, box18, box19,box20;
 var box21, box22, box23,box24;
-var box25, box26, 
+var box25, box26;
 
 
 function preload() {
